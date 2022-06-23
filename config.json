@@ -1,0 +1,17 @@
+{
+
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/coding",
+    "prod_uri": "mysql://root:@localhost/coding",
+    "ins_url": "https://instagram.com/bniyor",
+    "gh_url": "https://github.com/niyor123/",
+    "gmail-user": "niyor43@gmail.com",
+    "gmail-password": "niyor359",
+    "about_text": "Hi my name is niyor. i'm a Bca student.I'm always ready to learn new technologies and implement them. ",
+    "no_of_post": 2,
+    "blog_name": "Niyor's Blog"
+
+  }
+}
